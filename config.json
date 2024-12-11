@@ -93,6 +93,9 @@
         "use_lan_mode": false
     },
     "password": "",
+    "node": {
+        "resources": [],
+    },
     "pawn": {
         "legacy_plugins": [],
         "main_scripts": [
